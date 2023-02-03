@@ -4,3 +4,9 @@ This repository contains Matlab files used in the manuscript "Modulation of prot
 Shaded error bars were generated using: Rob Campbell (2023). raacampbell/shadedErrorBar (https://github.com/raacampbell/shadedErrorBar), GitHub
 Beeswarm plots were generated using: Jonas (2023). plot spread points (beeswarm plot) (https://www.mathworks.com/matlabcentral/fileexchange/37105-plot-spread-points-beeswarm-plot), MATLAB Central File Exchange.
 
+
+Plot generation includes code used to generate plots 
+
+modeling_4sites contains the code to create the equilibrium binding model
+
+viterbi_on_off contains the code used to generate the HMM traces
