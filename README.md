@@ -7,6 +7,6 @@ Beeswarm plots were generated using: Jonas (2023). plot spread points (beeswarm 
 
 Plot generation includes code used to generate plots 
 
-modeling_4sites contains the code to create the equilibrium binding model
+modeling_4_sites contains the code to create the equilibrium binding model
 
 viterbi_on_off contains the code used to generate the HMM traces
